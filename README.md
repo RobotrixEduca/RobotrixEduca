@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=2368c8&lines=Olá,+alunos+😍;Bem-vindos+ao+Github+Robotrix🤖" alt="Typing SVG">
+  </a>
+</div>
 
-<!--
-**RobotrixEduca/RobotrixEduca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center";>
+<div>
+  
+  ![ Estatísticas Robotrix GitHub ](https://github-readme-stats.vercel.app/api?username=RobotrixEduca&show_icons=true&theme=white)
+</div>
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotrixEduca&layout=compact&show_icons=true&theme=white)](https://github.com/RobotrixEduca/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+</div>
